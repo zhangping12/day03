@@ -1,0 +1,1 @@
+document.write("这个是我第一个JavaScript的代码")
